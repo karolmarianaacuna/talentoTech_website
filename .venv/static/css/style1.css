@@ -1,0 +1,22 @@
+.container path {
+  fill: #223d0a;
+  stroke: rgb(255, 255, 255);
+}
+#CO-BOY {
+  fill: #4f8108;
+}
+
+#CO-BOY:hover {
+  fill: #74ad1e;
+}
+#CO-CUN {
+  fill: #e6541f;
+}
+
+#CO-CUN:hover {
+  fill: #e7774f;
+}
+.mb-4,
+.section-title {
+  margin-left: 130px;
+}
